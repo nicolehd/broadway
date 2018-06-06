@@ -2,7 +2,9 @@ body {
   font-family: "Helvetica", sans-serif;
 }
 
-h1 {
+h1,
+h2,
+h3 {
   font-weight: bold;
 }
 
@@ -19,4 +21,20 @@ h1 {
 .nav {
   font-size: 18px;
   color: white;
+}
+
+.process {
+  text-align: center;
+}
+
+.process h2{
+  font-size: 32px;
+}
+
+.process h3{
+  font-size: 23px;
+}
+
+.process p{
+  font-size: 14px;
 }
