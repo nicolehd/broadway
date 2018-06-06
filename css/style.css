@@ -1,10 +1,22 @@
 body {
-  font-family: helvetica;
-  text-align: center;
+  font-family: "Helvetica", sans-serif;
 }
 
 h1 {
-  font-size: 70px;
   font-weight: bold;
-  color: black;
+}
+
+.heading {
+  background-image: url("../images/flatiron.png");
+  text-align: center;
+}
+
+.heading h1 {
+  color: white;
+  font-size: 70px;
+}
+
+.nav {
+  font-size: 18px;
+  color: white;
 }
